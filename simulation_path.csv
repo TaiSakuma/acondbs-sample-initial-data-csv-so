@@ -1,3 +1,11 @@
 simulation_id,path,note
-1001,nersc:/go/to/my/simulations,
-1001,abcde:/path/to/the/simulations,
+1001,nersc:/project/projectdirs/sobs/v4_sims/mbs/201901_gaussian_fg_lensed_cmb_realistic_noise,
+1002,nersc:/project/projectdirs/sobs/v4_sims/mbs/201903_highres_foregrounds,
+1003,nersc:/project/projectdirs/sobs/v4_sims/mbs/201904_highres_foregrounds_equatorial,
+1004,nersc:/project/projectdirs/sobs/v4_sims/mbs/201904_highres_foregrounds_variable_spectral_index,
+1005,nersc:/project/projectdirs/sobs/v4_sims/mbs/201905_extragalactic,
+1006,nersc:/project/projectdirs/sobs/v4_sims/mbs/201906_highres_foregrounds_extragalactic_tophat,
+1007,nersc:/project/projectdirs/sobs/v4_sims/mbs/201906_noise_no_lowell,
+1008,nersc:/project/projectdirs/sobs/v4_sims/mbs/201909_highres_foregrounds_extragalactic_planck_deltabandpass,
+1009,nersc:/project/projectdirs/sobs/v4_sims/mbs/201911_lensed_cmb,
+1010,nersc:/project/projectdirs/sobs/v4_sims/mbs/202002_noise,
