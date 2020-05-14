@@ -1,4 +1,4 @@
-simulation_file_path_id,simulation_id,path,note
+path_id,product_id,path,note
 1,1001,nersc:/project/projectdirs/sobs/v4_sims/mbs/201901_gaussian_fg_lensed_cmb_realistic_noise,
 2,1002,nersc:/project/projectdirs/sobs/v4_sims/mbs/201903_highres_foregrounds,
 3,1003,nersc:/project/projectdirs/sobs/v4_sims/mbs/201904_highres_foregrounds_equatorial,
