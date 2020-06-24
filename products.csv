@@ -1,29 +1,29 @@
-product_id,name,date_produced,produced_by,note,contact,date_posted,date_updated,posted_by,updated_by
-1001,mbs-s0001-20190220,2019-02-20,pwg-mbs,"- Gaussian foregrouds, lensed CMB, realistic noise map based simulations
+product_id,type_id,name,date_produced,produced_by,note,contact,date_posted,date_updated,posted_by,updated_by
+1001,3,mbs-s0001-20190220,2019-02-20,pwg-mbs,"- Gaussian foregrouds, lensed CMB, realistic noise map based simulations
 - https://github.com/simonsobs/map_based_simulations/blob/master/201901_gaussian_fg_lensed_cmb_realistic_noise/README.md",pwg-mbs,2020-05-14,,someone,
-1002,mbs-s0002-20190325,2019-03-25,pwg-mbs,"- High resolution foregrounds with spectral index not varying spatially
+1002,3,mbs-s0002-20190325,2019-03-25,pwg-mbs,"- High resolution foregrounds with spectral index not varying spatially
 - https://github.com/simonsobs/map_based_simulations/blob/master/201903_highres_foregrounds/README.md",pwg-mbs,2020-05-14,,someone,
-1003,mbs-s0003-20190517,2019-05-17,pwg-mbs,"- High resolution foregrounds in Equatorial with spectral index not varying spatially
+1003,3,mbs-s0003-20190517,2019-05-17,pwg-mbs,"- High resolution foregrounds in Equatorial with spectral index not varying spatially
 - https://github.com/simonsobs/map_based_simulations/blob/master/201904_highres_foregrounds_equatorial/README.md",pwg-mbs,2020-05-14,,someone,
-1004,mbs-s0004-20190610,2019-06-10,pwg-mbs,"- High resolution foregrounds in Equatorial with spectral index varying spatially
+1004,3,mbs-s0004-20190610,2019-06-10,pwg-mbs,"- High resolution foregrounds in Equatorial with spectral index varying spatially
 - https://github.com/simonsobs/map_based_simulations/blob/master/201904_highres_foregrounds_variable_spectral_index/README.md",pwg-mbs,2020-05-14,,someone,
-1005,mbs-s0005-20190520,2019-05-20,pwg-mbs,"- Extragalactic emission with Websky
+1005,3,mbs-s0005-20190520,2019-05-20,pwg-mbs,"- Extragalactic emission with Websky
 - https://github.com/simonsobs/map_based_simulations/blob/master/201905_extragalactic/README.md",pwg-mbs,2020-05-14,,someone,
-1006,mbs-s0006-20190705,2019-07-05,pwg-mbs,"- Tophat bandpasses simulation: high resolution foregrounds with spectral index not varying spatially and extragalactic
+1006,3,mbs-s0006-20190705,2019-07-05,pwg-mbs,"- Tophat bandpasses simulation: high resolution foregrounds with spectral index not varying spatially and extragalactic
 - https://github.com/simonsobs/map_based_simulations/blob/master/201906_highres_foregrounds_extragalactic_tophat/README.md",pwg-mbs,2020-05-14,,someone,
-1007,mbs-s0007-20190618,2019-06-18,pwg-mbs,"- Realistic noise with no power below ell 30
+1007,3,mbs-s0007-20190618,2019-06-18,pwg-mbs,"- Realistic noise with no power below ell 30
 - https://github.com/simonsobs/map_based_simulations/blob/master/201906_noise_no_lowell/README.md",pwg-mbs,2020-05-14,,someone,
-1008,mbs-s0008-20190919,2019-09-19,pwg-mbs,"- Planck delta bandpasses: high resolution foregrounds with spectral index not varying spatially and extragalactic
+1008,3,mbs-s0008-20190919,2019-09-19,pwg-mbs,"- Planck delta bandpasses: high resolution foregrounds with spectral index not varying spatially and extragalactic
 - https://github.com/simonsobs/map_based_simulations/blob/master/201909_highres_foregrounds_extragalactic_planck_deltabandpass/README.md",pwg-mbs,2020-05-14,,someone,
-1009,mbs-s0009-20191107,2019-11-07,pwg-mbs,"- 100 CMB realizations lensed with gaussian potential
+1009,3,mbs-s0009-20191107,2019-11-07,pwg-mbs,"- 100 CMB realizations lensed with gaussian potential
 - https://github.com/simonsobs/map_based_simulations/blob/master/201911_lensed_cmb/README.md",pwg-mbs,2020-05-14,,someone,
-1010,mbs-s0010-20200221,2020-02-21,pwg-mbs,"- Realistic noise version 3.1.1 with MSS1 hitmaps
+1010,3,mbs-s0010-20200221,2020-02-21,pwg-mbs,"- Realistic noise version 3.1.1 with MSS1 hitmaps
 - https://github.com/simonsobs/map_based_simulations/blob/master/202002_noise/README.md",pwg-mbs,2020-05-14,,someone,
-10011,mss-0001,2019-03-28,pwg-tds,"- Mission-scale simulation and map-making.
+10011,3,mss-0001,2019-03-28,pwg-tds,"- Mission-scale simulation and map-making.
 - http://simonsobservatory.wikidot.com/mss-0001",pwg-tds,2020-05-14,,someone,
-10012,pipe-s0001,2019-03-21,pwg-tds,"- 24-hour LAT sim for training map-making pipeline.
+10012,3,pipe-s0001,2019-03-21,pwg-tds,"- 24-hour LAT sim for training map-making pipeline.
 - http://simonsobservatory.wikidot.com/pwg:time-domain-sims-log:pipe-s0001",pwg-tds,2020-05-14,,someone,
-10013,pipe-s0002,2019-03-21,pwg-tds,"- 24-hour SAT sim for training map-making pipeline.
+10013,3,pipe-s0002,2019-03-21,pwg-tds,"- 24-hour SAT sim for training map-making pipeline.
 - http://simonsobservatory.wikidot.com/pwg:time-domain-sims-log:pipe-s0002",pwg-tds,2020-05-14,,someone,
-10014,pipe-s0003,2019-09-12,pwg-tds,"- Simulated beam calibration campaigns.
+10014,3,pipe-s0003,2019-09-12,pwg-tds,"- Simulated beam calibration campaigns.
 - http://simonsobservatory.wikidot.com/pwg:time-domain-sims-log:pipe-s0003",pwg-tds,2020-05-14,,someone,

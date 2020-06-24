@@ -1,6 +1,0 @@
-product_id,name,input_map_product_id,input_beam_product_id,contact,date_posted,date_produced,date_updated,note,posted_by,produced_by,updated_by
-1010,20180101,,,pwg-xyz,2020-05-14,2018-01-01,,- dummy entry,someone,pwg-xyz,
-1070,20190304,,,pwg-xyz,2020-05-14,2019-03-04,,- dummy entry,someone,pwg-xyz,
-1120,20190607,,,pwg-xyz,2020-05-14,2019-06-07,,- dummy entry,someone,pwg-xyz,
-1130,20200123,1012,,pwg-xyz,2020-05-14,2020-01-23,,- dummy entry,someone,pwg-xyz,
-1150,20200207,1013,1130,pwg-xyz,2020-05-14,2020-02-07,,- dummy entry,someone,pwg-xyz,
